@@ -1,7 +1,7 @@
 hi this is ia fil:e
 change done by user2
-<<<<<<< HEAD
+
 chnage done by user1
-=======
+
 change 2 lms
->>>>>>> ef963404d681a25bbdbfebe8689a9f2287e4a581
+
